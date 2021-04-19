@@ -3,8 +3,8 @@
 I am Mizanur Rahman and here is a little information about my technical skills and expertise: [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mizanurrahman13&&show_icons=true&theme=tokyonight&count_private=true" alt="Mizan's Github Status"/>](https://github.com/mizanurrahman13)  
 
 - 🔭 I’m currently working on ...
-    - Asp.Net Core Web API
     - Bzalor
+    - Asp.Net Core Web API
 - 🌱 I’m currently learning ...                                                       
     - Docker(Beginner) 
     - UI and UX Design                      [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahman13&layout=compact&hide=html&langs_count=7" alt="Mizan's most used Languages" />](https://github.com/mizanurrahman13)
