@@ -4,6 +4,7 @@ I am Mizanur Rahman and here is a little information about my technical skills a
 
 - 🔭 I’m currently working on ...
     - Asp.Net Core Web API
+    - Bzalor
 - 🌱 I’m currently learning ...                                                       
     - Docker(Beginner) 
     - UI and UX Design                      [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahman13&layout=compact&hide=html&langs_count=7" alt="Mizan's most used Languages" />](https://github.com/mizanurrahman13)
