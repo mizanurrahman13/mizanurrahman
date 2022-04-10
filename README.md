@@ -6,8 +6,8 @@ I am Mizanur Rahman and here is a little information about my technical skills a
     - Blazor
     - Asp.Net Core Web API
 - 🌱 I’m currently learning ...                                                       
-    - Docker(Beginner) 
-    - UI and UX Design                      [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahman13&layout=compact&hide=html&langs_count=7" alt="Mizan's most used Languages" />](https://github.com/mizanurrahman13)
+    - Asp.net Core MVC 
+    - AWS (beginner)                      [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahman13&layout=compact&hide=html&langs_count=7" alt="Mizan's most used Languages" />](https://github.com/mizanurrahman13)
 - 🤔 I’m looking for help with ... 
     - Blazor Client side API deal with large dataset
     - Jenkins Integration for CI/CD pipeline with DockerHub and Github
@@ -62,7 +62,8 @@ I am Mizanur Rahman and here is a little information about my technical skills a
   "Database Development": {
     "Relational": [ "MSSQL", "MySQL" ],      
     "ORMs": {
-      "Entity Framework": [ "DB-First", "Code-First", "Migration", ]     
+      "Entity Framework": [ "DB-First", "Code-First", "Migration", ],
+      "Ado.net": ["Simple Operations"]
     },
   },
   "Programming": {
@@ -94,7 +95,7 @@ I am Mizanur Rahman and here is a little information about my technical skills a
     "SDK: [ ".NET" ]
   },
   "Testing": {
-    "Unit & Integration Testing": [ "xUnit", "NUnit" ]
+    "Unit, Acceptance & Integration Testing": [ "xUnit", "NUnit" ]
   },
   
 }
