@@ -35,15 +35,19 @@ I am Mizanur Rahman and here is a little information about my technical skills a
 ```
 {
   "Architectures": [
-    "Layered Architecture"
-    
+    "Layered Architecture",
+    "3-Tier Architecture",
+    "Clean Architecture",
   ],  
   "Patterns": {
     "Architectural": [
       "Model-View-Controller (MVC)",
       "Repository", 
       "Unit of Work (UoW)", 
-      "Test Driven Development (TDD)"
+      "Test Driven Development (TDD)",
+      "Domain Driven Design (DDD)",
+      "CQRS",
+      "OOD"      
     ],
   },
   "Process Management": {
@@ -61,7 +65,7 @@ I am Mizanur Rahman and here is a little information about my technical skills a
     ]
   },
   "Database Development": {
-    "Relational": [ "MSSQL", "MySQL" ],      
+    "Relational": [ "MSSQL", "MySQL", "PostgreSQL" ],      
     "ORMs": {
       "Entity Framework": [ "DB-First", "Code-First", "Migration", ],
       "Ado.net": ["Simple Operations"]
@@ -70,12 +74,13 @@ I am Mizanur Rahman and here is a little information about my technical skills a
   "Programming": {
     "Core": [
         "Problem Solving", 
-        "Object Oriented Programming/Principles (OOP)", 
+        "Object Oriented Programming/Principles (OOP)",
+        "SOLID"
     ]
     
     "Languages": {
       "MarkUp/MarkDown": [ "HTML", "GitHub MarkDown" ]
-      "Styling": [ "CSS" ],
+      "Styling": [ "CSS", "Tailwind Css" ],
       "Scripting": [ "Javascript", "JSON" ]
       "Object Oriented": [ "C#", "C++" ]
     },
