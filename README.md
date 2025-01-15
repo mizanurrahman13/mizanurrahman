@@ -140,12 +140,7 @@ I am Md. Mizanur Rahman and here is a little information about my technical skil
                 "services": [
                     "Compute (VMs)", 
                     "Storage (S3 Bucket)", 
-                    "Databases: NoSQL (DynamoDB)", 
-                    "Containers & Orchestration: 
-                        Containerization - ECR, ECS, Fargate 
-                        Orchestration - EKS", 
-                    "Messgage Brokers (Service Bus)", 
-                    
+                    "Databases: NoSQL (DynamoDB)",                   
                 ]
             },
         ]
