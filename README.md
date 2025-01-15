@@ -44,14 +44,31 @@ I am Md. Mizanur Rahman and here is a little information about my technical skil
       "Model-View-Controller (MVC)",
       "Repository", 
       "Unit of Work (UoW)", 
-      "Test Driven Development (TDD)",
-      "Domain Driven Design (DDD)",
-      "CQRS",
-      "OOD"      
+      "Command Query Responsibility Segragation (CQRS)", 
+      "Domain Driven Design (DDD)"     
     ],
+    "Design": [
+        "Builder", 
+        "Factory", 
+        "Abstract Factory", 
+        "Singleton", 
+        "Facade", 
+        "Strategy", 
+        "Mediator", 
+        "Observer", 
+        "Decorator", 
+        "Adapter"
+      ]
   },
   "Process Management": {
-    "Tools: [        
+    "Methodologies": [ "SDLC", "Agile" ],
+    "Misc": [
+        "DevOps", 
+        "Automating Build, Static Code Analysis, Test,  Checking Code Coverage process in CI/CD", 
+        "Managing Sprints & Backlogs"
+    ],
+    "Tools: [
+        "TeamCity (CI/CD)",        
         "GitHub (SCCM)",
         "BitBucket (SCCM)",
     ]
@@ -67,9 +84,19 @@ I am Md. Mizanur Rahman and here is a little information about my technical skil
   "Database Development": {
     "Relational": [ "MSSQL", "MySQL", "PostgreSQL" ],      
     "ORMs": {
-      "Entity Framework": [ "DB-First", "Code-First", "Migration", ],
+      "Entity Framework": [ "DB-First", "Code-First", "Migration", "Seed Data" ],
       "Ado.net": ["Simple Operations"]
     },
+  },
+  "Misc": {
+      "Core DB concetps": [
+        "Normalizing DB", 
+        "Stored Procedures", 
+        "Functions", 
+        "Triggers", 
+        "Views"
+      ],
+    }
   },
   "Programming": {
     "Core": [
@@ -95,14 +122,33 @@ I am Md. Mizanur Rahman and here is a little information about my technical skil
         "Blazor Hybrid (Electron & WebWindow)",
     ],
     "API": [
-        "REST", 
-        "HATEOAS: API : Filtering, Sorting, Paging for RESTful APIs"
+        "REST",  
+        "GraphQL", 
+        "OpenAPI specification for RESTful Services", 
+        "Swagger", 
+        "HATEOAS: API Self-Documentation. Data Manipulation: Filtering, Sorting, Paging for RESTful APIs"
     ]
-    "SDK: [ ".NET" ]
+    "SDK: [ ".NET", "JavaScript", "TypeScript" ]
   },
   "Testing": {
     "Unit, Acceptance & Integration Testing": [ "xUnit", "NUnit" ]
   },
-  
+"Cloud Technologies": {
+    "Providers": [
+        {
+            "name": "AWS"
+            "services": [
+                "Compute (VMs)", 
+                "Storage (S3 Bucket)", 
+                "Databases: NoSQL (DynamoDB)", 
+                "Containers & Orchestration: 
+                    Containerization - ECR, ECS, Fargate 
+                    Orchestration - EKS", 
+                "Messgage Brokers (Service Bus)", 
+                
+            ]
+        },
+    ]
+  }  
 }
 ```
