@@ -6,7 +6,7 @@ I am Md. Mizanur Rahman and here is a little information about my technical skil
     - Angular, React 
     - Asp.Net Core Web API
 - 🌱 I’m currently learning ...                                                       
-    - Next.js 
+    - NEXT.js 
     - React                      [<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizanurrahman13&layout=compact&hide=html&langs_count=7" alt="Mizan's most used Languages" />](https://github.com/mizanurrahman13)
 - 🤔 I’m looking for help with ...
     - Domain Driven Design, Event Driven Architecture, Design Patterns - Gang of Four 
