@@ -133,22 +133,22 @@ I am Md. Mizanur Rahman and here is a little information about my technical skil
   "Testing": {
     "Unit, Acceptance & Integration Testing": [ "xUnit", "NUnit" ]
   },
-"Cloud Technologies": {
-    "Providers": [
-        {
-            "name": "AWS"
-            "services": [
-                "Compute (VMs)", 
-                "Storage (S3 Bucket)", 
-                "Databases: NoSQL (DynamoDB)", 
-                "Containers & Orchestration: 
-                    Containerization - ECR, ECS, Fargate 
-                    Orchestration - EKS", 
-                "Messgage Brokers (Service Bus)", 
-                
-            ]
-        },
-    ]
-  }  
+  "Cloud Technologies": {
+        "Providers": [
+            {
+                "name": "AWS"
+                "services": [
+                    "Compute (VMs)", 
+                    "Storage (S3 Bucket)", 
+                    "Databases: NoSQL (DynamoDB)", 
+                    "Containers & Orchestration: 
+                        Containerization - ECR, ECS, Fargate 
+                        Orchestration - EKS", 
+                    "Messgage Brokers (Service Bus)", 
+                    
+                ]
+            },
+        ]
+      }  
 }
 ```
